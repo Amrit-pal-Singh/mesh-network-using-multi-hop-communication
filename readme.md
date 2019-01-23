@@ -23,3 +23,8 @@ Add master_slave.ino to all the other ESP32 and change-><br>
 1. 183 line -> layer number<br>
 2. 184 line -> which node in that layer.<br>
 3. 255 and 315 line -> MAC address of ESP32 of next layer.<br>
+
+![mesh](https://user-images.githubusercontent.com/41193564/51616754-c7b6c700-1f50-11e9-9819-c4d700d79b40.png)
+
+
+This is the output
